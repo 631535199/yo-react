@@ -5,7 +5,6 @@ import {Tech} from './tech';
 
 import {Link} from 'react-router';
 
-import './teacs.scss';
 const styles = {
   container: {
     margin: '1rem'
